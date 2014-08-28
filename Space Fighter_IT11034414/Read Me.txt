@@ -1,0 +1,17 @@
+IT11034414
+Gunawardana C.L. 
+Weekend
+
+
+
+Game Play:
+
+Shoot alien ships to gain marks.
+
+Player:
+maximum health for player = 100 
+Each collision with enemy ships reduces health of the player by 10.
+
+Enemy:
+Maximum health for alien ships = 10;
+Each bullet hit reduces health by 2.

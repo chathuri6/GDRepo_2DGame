@@ -1,0 +1,82 @@
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\My 2D Game.exe
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\My 2D Game.pdb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.csprojResolveAssemblyReference.cache
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.exe
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.pdb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\player1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\shipAnimation1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer2.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\mainbackground.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemy.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\bullet.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\laser.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\explosion.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\explosion.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\laserFire.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\sky_is_falling.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\sky_is_falling.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\gameFont.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\player1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\shipAnimation1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer2.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\mainbackground.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemy.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\bullet.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\laser.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\explosion.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\explosion.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\laserFire.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\gameFont.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\menufont.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\My 2D Game.exe
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\My 2D Game.pdb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.csprojResolveAssemblyReference.cache
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.exe
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.pdb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\end.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\end.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\endScreen.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\startScreen.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\start.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game without screens\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\start.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\player1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\shipAnimation1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer2.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\mainbackground.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemy.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\bullet.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\laser.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\explosion.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation1.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\endScreen.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\startScreen.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\explosion.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\laserFire.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\end.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\start.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\gameFont.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\menufont.xnb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\end.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\start.wma
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\My 2D Game.exe
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\My 2D Game.pdb
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.csprojResolveAssemblyReference.cache
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.exe
+D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\obj\x86\Debug\My 2D Game.pdb

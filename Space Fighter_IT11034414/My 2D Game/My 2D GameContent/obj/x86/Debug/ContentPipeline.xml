@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player1.png</Source>
+      <Name>player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\player1.xnb</Output>
+      <Time>2014-08-25T09:02:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>shipAnimation1.png</Source>
+      <Name>shipAnimation1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\shipAnimation1.xnb</Output>
+      <Time>2014-08-25T09:10:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer1.png</Source>
+      <Name>bgLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer1.xnb</Output>
+      <Time>2014-08-25T11:59:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer2.png</Source>
+      <Name>bgLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\bgLayer2.xnb</Output>
+      <Time>2014-08-25T11:55:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\mainbackground.xnb</Output>
+      <Time>2014-08-25T12:04:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2014-08-25T13:25:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2014-08-26T00:15:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>laser.png</Source>
+      <Name>laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\laser.xnb</Output>
+      <Time>2014-08-26T00:19:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-08-26T00:49:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyAnimation.png</Source>
+      <Name>enemyAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation.xnb</Output>
+      <Time>2014-08-26T01:40:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>enemyAnimation1.png</Source>
+      <Name>enemyAnimation1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\enemyAnimation1.xnb</Output>
+      <Time>2014-08-26T02:33:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>endScreen.png</Source>
+      <Name>endScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\endScreen.xnb</Output>
+      <Time>2014-08-27T02:50:58.8187792-07:00</Time>
+    </Item>
+    <Item>
+      <Source>startScreen.png</Source>
+      <Name>startScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\startScreen.xnb</Output>
+      <Time>2014-08-26T07:46:30.4523614-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\explosion.wav</Source>
+      <Name>sound\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\explosion.xnb</Output>
+      <Time>2014-08-26T01:32:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\laserFire.wav</Source>
+      <Name>sound\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\laserFire.xnb</Output>
+      <Time>2014-08-26T01:36:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\gameplay.mp3</Source>
+      <Name>sound\gameplay</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.xnb</Output>
+      <Extra>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\gameplay.wma</Extra>
+      <Time>2014-08-26T01:55:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\end.mp3</Source>
+      <Name>sound\end</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\end.xnb</Output>
+      <Extra>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\end.wma</Extra>
+      <Time>2014-08-26T06:34:25.1369675-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\start.mp3</Source>
+      <Name>sound\start</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\start.xnb</Output>
+      <Extra>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\sound\start.wma</Extra>
+      <Time>2014-08-26T07:01:37.3513248-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2014-08-26T02:50:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2014-08-26T03:04:48-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D GameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\SLIIT\Year 4\2nd Semester\GD\Practicals\XNA\My 2D Game Space Fighter\My Final 2D Game\Space Fighter_IT11034414\My 2D Game\My 2D Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-23T08:16:14.4689574-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
